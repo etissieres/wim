@@ -11,7 +11,7 @@ Ok soit mais bon pk ils utiliseraient ca ? c'est chiant, contraignant et pas si 
 Après la ou c'est chiant c'est le graphisme... OK on est pas designer ... mais merde quand on voit YO ya pas besoin de ca => simple efficace et foutre rapide en main. Visons une clientèle pseudo geek, on verra pour après.
 
 
-Niveau dev on fait quoi ? Un architecture back simple pour les tests, on ajoutera la secu après !! (du calme Etienne du calme ^^) On vise quoi ? Dans un premier temps les app Android je dirais. Un interface web ? Pk pas mais rudimentaire dans c'est ca la c'est pas la cible c'est bonus. Dans un second temps iOS :p Après tout ils ont aussi le NFC maintenant ^^
+Niveau dev on fait quoi ? Un architecture back simple pour les tests, on ajoutera la secu après !! (du calme Etienne du calme ^^) On vise quoi ? Dans un premier temps les app Android je dirais. Un interface web ? Pk pas mais rudimentaire dans tous les cas, ce n'est pas la cible mais plus un bonus. Dans un second temps iOS :p Après tout ils ont aussi le NFC maintenant ^^
 
 Bon je sais c'est écrit à la manière d'un article de merde de blog mais je m'en fou la n'est pas le but c'est entre nous. 
 
