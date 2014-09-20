@@ -1,6 +1,6 @@
 BFF => Bet Between Friend  : le titre. Petit jeu de mot avec Best Friend Forever ^^
 
-Bon alors l'idée global c'est qui n'a pas eu l'idée lors d'une soirée de faire un paris. C'est cool mais relativement courant. Genre allez si tu bois shooter je te paie le prochain ou si tu vas parler à telle ou telle fille je te paie un verre. Mais le soucis c'est que c'est cool les paris comme ca mais souvent on en fait quedal ^^
+Bon alors l'idée globale : qui n'a pas eu l'idée lors d'une soirée de faire un paris. C'est cool mais relativement courant. Genre allez si tu bois shooter je te paie le prochain ou si tu vas parler à telle ou telle fille je te paie un verre. Mais le soucis c'est que c'est cool les paris comme ca mais souvent on en fait quedal ^^
 
 Alors voila l'idée : on pourrait faire une app simple qui gère ce genre de paris :p Attention je ne parles pas de mettre en jeu de l'argent mais des gains style un resto, un verre ou ce que vous voulez qui ne dis pas 5€ ^^ 
 
